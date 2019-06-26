@@ -1,2 +1,6 @@
-# Trabalho-de-Introdu-o
-Trabalho de Introdução a engenharia de computação referente a uma das notas da M3
+#  Introdução ao Python
+
+Avaliação M2 de Introdução.
+Repositório para Avaliação M2 de Introdução.
+
+! [ Python 512x512 ] (images.png)
